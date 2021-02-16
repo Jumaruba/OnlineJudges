@@ -1,0 +1,6 @@
+[submodule "URI"]
+	path = URI
+	url = https://github.com/Jumaruba/URI
+[submodule "LeetCode"]
+	path = LeetCode
+	url = https://github.com/Jumaruba/LeetCode
