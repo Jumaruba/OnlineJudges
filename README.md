@@ -7,6 +7,6 @@ Repository some solutions for online judges problemns.
 
 ## Online Judges
 
-- LeetCode 
-- Uri Online Judge 
-- Spoj
+- [LeetCode](https://leetcode.com/)
+- [Uri Online Judge ](https://www.urionlinejudge.com.br/judge/en/login) 
+- [Spoj](https://www.spoj.com/)
